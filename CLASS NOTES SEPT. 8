@@ -1,0 +1,8 @@
+Elements: content that lives on a webpage, sits between angeled brackets (known as tags) 
+- Most elements have an opening and closing tab 
+- Tags tell browser information about content 
+h1: Header One 
+Web pages are made up of a head and body 
+- Head element contains info about page (metadata and resources) 
+- Body element displays its content to the browser (what the user sees)
+
