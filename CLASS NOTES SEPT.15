@@ -1,0 +1,20 @@
+Structural tags: elements that describe structure of document
+Headings: six levels (biggest heading; second; third; fourth; fifth; sixth) 
+Paragraphs: 
+Lists: Undordered and ordered 
+  Every list has list items (known as li) 
+Some elements have attributes
+  Attribute shave a name and are followed by an equals sign with a value in quotation marks 
+Images: img 
+  Height and width attirbutes (in %) 
+Divs are tags that create divisons between other elements
+All elements can take the style attribute, not just divs - maybe not images 
+ALL AFOREMENTIONED ELEMETNS DEFINE STRUCTURE OF ELEMENTS 
+
+Paragraph<p>
+
+Semantic markup: elements that describe how text should feel 
+Emphasis<em> & italics<i> : one is structual and the other is semantic 
+Strong<s> & bold<b>: strong is semantic and bold is structural 
+<blockquote> = semantic 
+
